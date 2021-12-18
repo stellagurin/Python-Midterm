@@ -1,0 +1,18 @@
+pv: 240000.0, pmt: 53910.5072383
+M(1) 195689.492762
+M(2) 149606.565234
+M(3) 101680.320605
+M(4) 51837.0261907
+M(5) 0.0
+pv: 240000.0, pmt: 53910.5072383
+M(1) 195689.492762
+M(2) 149606.565234
+M(3) 101680.320605
+M(4) 51837.0261907
+M(5) 0.0
+ValueError: n is out of bounds
+ValueError: d is out of bounds
+MissingInput: Missing Inputs
+MissingInput: Too many Inputs for n
+TypeError: i is not an float
+TypeError: p is not an int
